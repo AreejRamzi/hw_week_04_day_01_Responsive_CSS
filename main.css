@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.wrapper_row {
+    /* width:100%; */
+    /* box-sizing: border-box; */
+    /* clear:both; */
+    display:flex;
+}
+nav{
+    color: aliceblue;
+    font-size: 25px;
+    flex-direction: column;
+ }
