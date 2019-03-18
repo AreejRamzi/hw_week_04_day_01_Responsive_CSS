@@ -8,8 +8,14 @@ body{
     /* clear:both; */
     display:flex;
 }
-nav{
+.col-6 {
     color: aliceblue;
     font-size: 25px;
     flex-direction: column;
+ }
+ p{
+     font-size: 15px;
+ }
+ li{
+    font-size: 15px;
  }
